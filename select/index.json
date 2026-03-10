@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "裸のままで",
+  "base_artist": "スピッツ",
+  "createdAt": "2026-03-10T14:37:40.601627Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "裸のままで",
+      "artist": "SPITZ",
+      "has_synced": false,
+      "path": "select/01_裸のままで_SPITZ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "裸のままで",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/02_裸のままで_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "裸のままで",
+      "artist": "Spitz",
+      "has_synced": true,
+      "path": "select/03_裸のままで_Spitz.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "裸のままで",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/04_裸のままで_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "裸のままで",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/05_裸のままで_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "裸のままで",
+      "artist": "SPITZ",
+      "has_synced": true,
+      "path": "select/06_裸のままで_SPITZ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "裸のままで",
+      "artist": "Spitz",
+      "has_synced": true,
+      "path": "select/07_裸のままで_Spitz.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "裸のままで",
+      "artist": "HIDEHIKO HANADA",
+      "has_synced": false,
+      "path": "select/08_裸のままで_HIDEHIKO_HANADA.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "裸のままで",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_01_裸のままで_スピッツ.txt"
+    }
+  ]
+}
